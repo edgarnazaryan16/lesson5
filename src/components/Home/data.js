@@ -1,4 +1,4 @@
-export const data = [
+export let data = [
     {
         "id":"rec1JZlfCIBOPdcT2",
         "title":"Samsung Galaxy S8",
@@ -28,4 +28,3 @@ export const data = [
         "amount":1
     }
 ]
-
